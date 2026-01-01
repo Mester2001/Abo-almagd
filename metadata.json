@@ -1,0 +1,8 @@
+{
+  "name": "Abu-Almagd Center",
+  "description": "Premium bilingual car workshop website with tracking and booking management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
