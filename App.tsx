@@ -11,8 +11,7 @@ import { SERVICES, FEATURES, TRANSLATIONS, getTrackingSteps, MAPS_URL } from './
 import { Booking } from './types';
 import { db, isConfigPlaceholder } from './firebase';
 import { GoogleGenAI } from "@google/genai";
-import { getWhatsAppLink, getStatusUpdateWhatsAppLink } from './services/whatsapp';
-import { 
+import { getWhatsAppLink, getStatusUpdateWhatsAppLink } from './services/whatsapp';import { 
   collection, 
   addDoc, 
   onSnapshot, 
